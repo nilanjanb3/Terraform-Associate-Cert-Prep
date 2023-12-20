@@ -71,16 +71,7 @@ This repo contains topics and reading materials for Terraform Associate Certific
     * [03-A Practical Example of Modules](https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d)
     * [04-Publishing a Module](https://developer.hashicorp.com/terraform/language/modules/develop/publish)
 * 08-Terraform Cloud
-    * [01-Introduction]()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+    * [01-Introduction](https://developer.hashicorp.com/terraform/tutorials/cloud-get-started/cloud-sign-up)
+    * [02-Terraform Cloud Plans](https://developer.hashicorp.com/terraform/cloud-docs/overview)
 
 
